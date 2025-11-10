@@ -2,7 +2,7 @@
 Zomato Dataset Exploratory Data Analysis (eda-exploratory-data-analysis-2.ipynb)
 Overview: Comprehensive exploratory data analysis (EDA) of the Zomato dataset using Python (Pandas, Numpy, Matplotlib, Seaborn).
 
-Key Features:
+# Key Features:
 
 1.Data cleaning, processing, and merging with country codes.
 
@@ -12,7 +12,7 @@ Key Features:
 
 4.Tech Stack: Python 3, Jupyter Notebook, Data Science Libraries.
 
-How to Run:
+# How to Run:
 
 1.Download the notebook and the corresponding datasets (Country-Code.xlsx and Zomato CSV file).
 
@@ -26,7 +26,7 @@ Usage: Can be integrated with restaurant or transactional datasets for global an
 
 Format: Excel sheet; columns include Country Code and Country.
 
-🧹 Data Cleaning Steps
+# 🧹 Data Cleaning Steps
 
 1.Removed unnecessary columns
 
@@ -39,7 +39,7 @@ Format: Excel sheet; columns include Country Code and Country.
 5.Converted categorical data into meaningful labels
 
 
-📈 Visualizations
+# 📈 Visualizations
 
 1.The analysis includes multiple visualizations such as:
 
@@ -53,7 +53,7 @@ Format: Excel sheet; columns include Country Code and Country.
 
 6.Heatmaps for correlation between numerical columns.
 
-📊 Key Insights
+# 📊 Key Insights
 
 Some highlights from the analysis include:
 
@@ -68,7 +68,7 @@ Some highlights from the analysis include:
 5.Visual breakdown of online delivery and booking options
 
 
-🚀 How to Use This Repo
+# 🚀 How to Use This Repo
 1.Clone or download the specific project folders or notebooks you need.
 
 2.Jupyter Notebooks are annotated for easy code-by-code navigation and include stepwise outputs and visualizations.
@@ -77,7 +77,7 @@ Some highlights from the analysis include:
 
 4.Browse issues or discussions for troubleshooting tips and usage guidance.
 
-🧠 Future Work
+# 🧠 Future Work
 
 1.Build interactive dashboards using Plotly or Power BI
 
@@ -85,7 +85,7 @@ Some highlights from the analysis include:
 
 3.Automate data updates from APIs
 
-✨ Author
+# ✨ Author
 
 Sakshi Pandey
 
